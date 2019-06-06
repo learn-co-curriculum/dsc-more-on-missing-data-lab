@@ -271,11 +271,11 @@ age_na_median.hist()
 
 ### Commentary
 
-Imputing the median has similar effectives to imputing the mean. The variance is reduced, while the mean is slightly lowered. You can once again see that there is a larger mass of data near the center of the distribution.
+Imputing the median has similar effectiveness to imputing the mean. The variance is reduced, while the mean is slightly lowered. You can once again see that there is a larger mass of data near the center of the distribution.
 
 ## Dropping Rows
 
-Finally, lets observe the impact on the distribution if we were to simply drop the age column all together. Afterwards, calculate the mean, median and standard deviation along with a histogram, as before.
+Finally, lets observe the impact on the distribution if we were to simply drop all of the rows that are missing an age value. Afterwards, calculate the mean, median and standard deviation of the ages along with a histogram, as before.
 
 
 ```python
