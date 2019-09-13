@@ -275,7 +275,7 @@ Imputing the median has similar effectiveness to imputing the mean. The variance
 
 ## Dropping Rows
 
-Finally, lets observe the impact on the distribution if we were to simply drop all of the rows that are missing an age value. Afterwards, calculate the mean, median and standard deviation of the ages along with a histogram, as before.
+Finally, let's observe the impact on the distribution if we were to simply drop all of the rows that are missing an age value. Then, calculate the mean, median and standard deviation of the ages along with a histogram, as before.
 
 
 ```python
