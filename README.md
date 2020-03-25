@@ -56,7 +56,7 @@ Note that the standard deviation dropped, the median was slightly raised and the
 
 ## Impute missing values using the median 
 
-Fill the missing `'Age'` values, this time using the media age. (Again, don't overwrite the original data, as we will be comparing to other methods for dealing with the missing values.) Then recalculate the mean, median, and std and replot the histogram.
+Fill the missing `'Age'` values, this time using the median age. (Again, don't overwrite the original data, as we will be comparing to other methods for dealing with the missing values.) Then recalculate the mean, median, and std and replot the histogram.
 
 
 ```python
